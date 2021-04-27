@@ -8,7 +8,7 @@
 |_________________________________________________________|   
 
 **Requerimientos:**  
--JDK version 14.0.1 [https://www.oracle.com/co/java/technologies/javase/jdk14-archive-downloads.html]  
+-JDK version 16.0.1 [https://www.oracle.com/java/technologies/javase-jdk16-downloads.html]  
 
 
 **Como ejecutar el prototipo**
