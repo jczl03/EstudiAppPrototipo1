@@ -12,8 +12,8 @@
 
 
 **Como ejecutar el prototipo:**
--Descargar el repositorio del prototipo 
--Extraerlo 
+-Descargar el repositorio del prototipo
+-Extraerlo
 -Acceder por consola a la carpeta dist y ejecutar la linea  
 -java -jar "ProyectoED1_2.jar"  
 **Recomendación:**  
