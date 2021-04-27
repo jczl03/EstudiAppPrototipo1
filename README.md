@@ -11,7 +11,7 @@
 -JDK version 16.0.1 [https://www.oracle.com/java/technologies/javase-jdk16-downloads.html]  
 
 
-**Como ejecutar el prototipo**
+**Como ejecutar el prototipo:**
 -Descargar el repositorio del prototipo
 -Extraerlo
 -Acceder por consola a la carpeta dist y ejecutar la linea 
