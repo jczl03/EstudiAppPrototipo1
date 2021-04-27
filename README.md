@@ -8,6 +8,8 @@
 |_________________________________________________________|   
 
 **Requerimientos:**  
+
+
 -JDK version 16.0.1 [https://www.oracle.com/java/technologies/javase-jdk16-downloads.html]  
 
 
@@ -25,5 +27,7 @@
 
 
 **Recomendación:**  
+
+
 -En caso de error, pruebe con desinstalar Java 8   
 
