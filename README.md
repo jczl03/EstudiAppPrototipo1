@@ -1,4 +1,4 @@
-# STONKS
+# EstudiApp
  _________________________________________________________   
 |EstudiApp 2021 (Proyecto Estructuras de Datos 2021-1)    |   
 |Created by:                                              |   
